@@ -1,4 +1,4 @@
 /* eslint-disable no-undef */
-test('Выод в консоль', () => {
-  expect('it works!').toBe('it works!');
+test('нулевой тест', () => {
+  expect(0).toBe(0);
 });
