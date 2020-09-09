@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/3kapadcur8a2m1gq?svg=true)](https://ci.appveyor.com/project/Evgeniy-27/dom)
 
-[GitHub Pages]https://evgeniy-27.github.io/DOM/
+[GitHub Pages](https://evgeniy-27.github.io/DOM/)
 
 ### Перемещение элемента
 
